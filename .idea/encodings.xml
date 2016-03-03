@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/nanohttpd-2.1.1.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/DatabaseHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/DirectionalConnectionHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/Https443RequestHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/MyProxyServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/ProxyConnectionHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/RequestHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/UrlData.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/infinite/vpnpack/UrlsDirectory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
